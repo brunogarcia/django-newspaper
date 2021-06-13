@@ -1,6 +1,6 @@
-# Newspaper made with Django and SQLite
+# A newspaper app made with Django
 
-This project was made reading and following the instructions of the book
+A project made with the help of the book
 [Django for Beginners ](https://djangoforbeginners.com/).
 
 ## Initial setup
