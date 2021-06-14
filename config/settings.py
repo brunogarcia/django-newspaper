@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     # Local
     'accounts',
     'pages',
+    'articles',
 ]
 
 MIDDLEWARE = [
@@ -121,7 +122,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # AUTH
-
 AUTH_USER_MODEL = 'accounts.CustomUser'
 
 # LOGIN
